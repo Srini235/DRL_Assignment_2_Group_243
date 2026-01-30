@@ -1,0 +1,10 @@
+ipykernel
+jupyter
+notebook
+numpy
+gymnasium-robotics[mujoco-py]
+gymnasium
+matplotlib
+seaborn
+torch
+numpy
